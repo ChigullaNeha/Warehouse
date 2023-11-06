@@ -1,0 +1,18 @@
+.list-item {
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  height: 200px;
+  width: 400px;
+  margin: 30px;
+  border-radius: 8px;
+  padding: 8px;
+}
+.heading {
+  font-family: Bree-serif;
+  font-family: 30px;
+}
+.para {
+  font-family: Bree-serief;
+  font-size: 25px;
+}
